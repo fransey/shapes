@@ -7,7 +7,7 @@ public class Main {
 
   public static void main(String[] args) {
 
-    ArrayList<Shape> shapes = new ArrayList<>();
+    Array <Shape> shapes = new Array[10]();
     int user_input;
 
     do {
